@@ -1,7 +1,7 @@
 {
+  "homepage": "https://avinesh2.github.io/Nike-Landing-Page/",
   "name": "nike",
-  "homepage": "https://Avinesh2.github.io/Nike-Landing-Page/",
-  "private": false,
+  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
