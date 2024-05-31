@@ -29,6 +29,10 @@
     transform: translateY(-5px);
   }
 
+  .scroll1{
+    scroll-snap-type: y mandatory;
+  }
+
 
 }
 
